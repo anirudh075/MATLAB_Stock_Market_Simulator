@@ -1,7 +1,7 @@
 ## MATLAB Stock Market Simulator
 
 <p>Name: Anirudh Aggarwal <br>
-Email: aggarwaa@my.erua.edu <br>
+Email: anirudh.a075@gmail.com<br>
 Date: May 1, 2022 </p>
 
 <p>WELCOME TO THE LONG-TERM STOCK MARKET SIMULATOR</p>
