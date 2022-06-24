@@ -6,7 +6,7 @@ function [stock_var] = stock_str2var (stock_name)
 % Created by Anirudh Aggarwal
 
     % Reads all the data
-    MSFT = xlsread("Stock.xlsx","Sheet1"); %<SM:READ>
+    MSFT = readmatrix("Stock.xlsx","Sheet",1); %<SM:READ>
     F = readmatrix("Stock.xlsx","Sheet",2);
     NVDA = readmatrix("Stock.xlsx","Sheet",3);
     DIS = readmatrix("Stock.xlsx","Sheet",4);
